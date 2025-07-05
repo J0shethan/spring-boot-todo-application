@@ -1,4 +1,4 @@
-cat > README.md <<EOF
+
 # ✅ Spring Boot To-Do Application
 
 A simple and efficient **To-Do List application** built with **Spring Boot**. It allows users to manage their daily tasks with features like adding, updating, retrieving, and deleting to-do items via a RESTful API.
@@ -98,4 +98,3 @@ Bharani Kumar
 ## 📄 License
 
 This project is open-source and free to use.
-EOF
